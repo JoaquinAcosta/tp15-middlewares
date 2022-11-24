@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin:0px;
+  padding: 0px;
+}
+
+body main{
+  margin: 0;
+  font-family: sans-serif;
+}
+body header{
+  background-color:rgb(199, 190, 190);
+  padding: 20px;
+}
+.ul-nadvar{
+  margin: 20px;
+  font-size: 30PX;
+}
+h1,img{
+  text-align: center;
+  margin: 15px;
+
+}
